@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67507d10-8a78-4171-aff8-127b34e1425d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-764008433">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="698" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="698" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SharpInjector/Injector.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+              <folding>
+                <marker date="1545122532815" expanded="false" signature="6:124" ph="..." />
+                <marker date="1545122532815" expanded="true" signature="149:4079" ph="{...}" />
+                <marker date="1545122532815" expanded="true" signature="177:4077" ph="{...}" />
+                <marker date="1545122532815" expanded="true" signature="234:295" ph="{...}" />
+                <marker date="1545122532815" expanded="true" signature="358:469" ph="{...}" />
+                <marker date="1545122532815" expanded="true" signature="1589:4071" ph="{...}" />
+                <marker date="1545122532815" expanded="true" signature="1816:2001" ph="{...}" />
+                <marker date="1545122532815" expanded="true" signature="2210:2394" ph="{...}" />
+                <marker date="1545122532815" expanded="true" signature="2710:2897" ph="{...}" />
+                <marker date="1545122532815" expanded="true" signature="3156:3328" ph="{...}" />
+                <marker date="1545122532815" expanded="true" signature="3584:3764" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SharpInjector/PrimaryForm.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1545121634939" expanded="false" signature="6:84" ph="..." />
+                <marker date="1545121634939" expanded="true" signature="109:2399" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="155:2397" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="271:373" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="447:702" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="605:664" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="783:1289" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="947:1279" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="1002:1129" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="1150:1265" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="1358:1930" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="1566:1667" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="1719:1920" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="1792:1906" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="2002:2391" ph="{...}" />
+                <marker date="1545121634939" expanded="true" signature="2288:2381" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SharpInjector/PrimaryForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SharpInjector/Injector.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SharpInjector/Injector.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-12" />
+    <option name="width" value="1149" />
+    <option name="height" value="1455" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SharpInjector" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SharpInjector" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SharpInjector" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.SharpInjector">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SharpInjector" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SharpInjector/bin/Debug/SharpInjector.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SharpInjector/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SharpInjector/SharpInjector.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.Default" />
+      <item itemvalue=".NET Project.SharpInjector" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.SharpInjector" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1519" height="977" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24948595" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SharpInjector/Injector.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <marker date="1545122532815" expanded="false" signature="6:124" ph="..." />
+            <marker date="1545122532815" expanded="true" signature="149:4079" ph="{...}" />
+            <marker date="1545122532815" expanded="true" signature="177:4077" ph="{...}" />
+            <marker date="1545122532815" expanded="true" signature="234:295" ph="{...}" />
+            <marker date="1545122532815" expanded="true" signature="358:469" ph="{...}" />
+            <marker date="1545122532815" expanded="true" signature="1589:4071" ph="{...}" />
+            <marker date="1545122532815" expanded="true" signature="1816:2001" ph="{...}" />
+            <marker date="1545122532815" expanded="true" signature="2210:2394" ph="{...}" />
+            <marker date="1545122532815" expanded="true" signature="2710:2897" ph="{...}" />
+            <marker date="1545122532815" expanded="true" signature="3156:3328" ph="{...}" />
+            <marker date="1545122532815" expanded="true" signature="3584:3764" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SharpInjector/PrimaryForm.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1545121634939" expanded="false" signature="6:84" ph="..." />
+            <marker date="1545121634939" expanded="true" signature="109:2399" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="155:2397" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="271:373" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="447:702" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="605:664" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="783:1289" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="947:1279" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="1002:1129" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="1150:1265" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="1358:1930" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="1566:1667" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="1719:1920" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="1792:1906" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="2002:2391" ph="{...}" />
+            <marker date="1545121634939" expanded="true" signature="2288:2381" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

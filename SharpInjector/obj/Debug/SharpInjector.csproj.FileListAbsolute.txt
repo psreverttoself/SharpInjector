@@ -1,0 +1,9 @@
+C:\Users\joshd\Desktop\SharpInjector\SharpInjector\bin\Debug\SharpInjector.exe
+C:\Users\joshd\Desktop\SharpInjector\SharpInjector\bin\Debug\SharpInjector.pdb
+C:\Users\joshd\Desktop\SharpInjector\SharpInjector\obj\Debug\SharpInjector.csprojAssemblyReference.cache
+C:\Users\joshd\Desktop\SharpInjector\SharpInjector\obj\Debug\SharpInjector.PrimaryForm.resources
+C:\Users\joshd\Desktop\SharpInjector\SharpInjector\obj\Debug\SharpInjector.Properties.Resources.resources
+C:\Users\joshd\Desktop\SharpInjector\SharpInjector\obj\Debug\SharpInjector.csproj.GenerateResource.cache
+C:\Users\joshd\Desktop\SharpInjector\SharpInjector\obj\Debug\SharpInjector.csproj.CoreCompileInputs.cache
+C:\Users\joshd\Desktop\SharpInjector\SharpInjector\obj\Debug\SharpInjector.exe
+C:\Users\joshd\Desktop\SharpInjector\SharpInjector\obj\Debug\SharpInjector.pdb
